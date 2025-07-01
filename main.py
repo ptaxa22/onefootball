@@ -371,6 +371,12 @@ async def siwe_auth(
                             ('TV_2', '4aea2a6c-2fbb-47ef-a002-f07756f63b0d'),
                             ('SALE_1', '1fdf2efd-5691-4e45-88e0-1ae652f23dcf'),
                             ('SALE_2', '173eb8c1-602c-47ba-802a-09961a95e84f'),
+                            ('Kickoff_1', 'baca9170-75e6-4daa-909d-5503f9dcbadd'),
+                            ('Kickoff_2', 'f1eaeb3a-f535-470a-8742-04b9e477e9fc'),
+                            ('500folow_1', 'c4b3adc9-2fda-44f3-b5d3-256e3e421505'),
+                            ('500folow_2', '70bb6a80-5656-4f54-b50b-5f27874b1280'),
+                            ('Space_1', '75affc24-fb64-4b24-87d4-a4237d257155'),
+                            ('Space_2', 'b09b1368-4a66-4f49-9f68-08ffcadb9207'),
                         ]
                         max_attempts_tasks = 2
                         for task_name, task_id in tasks:
