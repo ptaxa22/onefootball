@@ -377,6 +377,15 @@ async def siwe_auth(
                             ('500folow_2', '70bb6a80-5656-4f54-b50b-5f27874b1280'),
                             ('Space_1', '75affc24-fb64-4b24-87d4-a4237d257155'),
                             ('Space_2', 'b09b1368-4a66-4f49-9f68-08ffcadb9207'),
+                            ('Mega_phone_1', 'ad3559b5-25aa-4d76-95df-6f6ed32d12ff'),
+                            ('Mega_phone_2', 'bf5d8798a-f482-494c-aba0-5e17fe27fc70'),
+                            ('CoinList_1', '6221e4a9-5323-4c15-97aa-2e8527fd3569'),
+                            ('CoinList_2', 'b09b1368-4a66-4f49-9f68-08ffcadb9207'),
+                            ('CoinList_3', 'e3b06409-f6fd-494b-a233-fe01d0b4fb95'),
+                            ('CoinList_4', '3b8cb839-b108-4b3a-b1cc-afb03812fd28'),
+                            ('CoinList_5', '0b7cb19b-d373-4799-ace7-20bd54b6551e'),
+                            ('CoinList_6', '69aab671-374b-444c-848d-fe99651dc519'),
+                            ('CoinList_6', '12e5acff-ed02-4599-a57e-1abef7fc025b'),
                         ]
                         max_attempts_tasks = 2
                         for task_name, task_id in tasks:
