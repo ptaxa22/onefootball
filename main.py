@@ -399,6 +399,8 @@ async def siwe_auth(
                             ('IP_Launch_2', '9adfc34d-9901-4f3e-847d-cf8897af207a'),
                             ('IP_Launch_3', 'd94bef47-f43b-4747-9224-4bf37c51109e'),
                             ('Telegram', '9cfd0281-a3bb-4517-a6df-366c5f71ba2f'),
+                            ('Nike_1', '645f2eb4-0efc-4400-8822-86fa07117191'),
+                            ('Nike_2', 'faa4be2d-5bc7-4b98-96ce-08876d803934'),
                         ]
                         max_attempts_tasks = 2
                         for task_name, task_id in tasks:
