@@ -378,7 +378,7 @@ async def siwe_auth(
                             ('Space_1', '75affc24-fb64-4b24-87d4-a4237d257155'),
                             ('Space_2', 'b09b1368-4a66-4f49-9f68-08ffcadb9207'),
                             ('Mega_phone_1', 'ad3559b5-25aa-4d76-95df-6f6ed32d12ff'),
-                            ('Mega_phone_2', 'bf5d8798a-f482-494c-aba0-5e17fe27fc70'),
+                            ('Mega_phone_2', 'f5d8798a-f482-494c-aba0-5e17fe27fc70'),
                             ('CoinList_1', '6221e4a9-5323-4c15-97aa-2e8527fd3569'),
                             ('CoinList_2', 'b09b1368-4a66-4f49-9f68-08ffcadb9207'),
                             ('CoinList_3', 'e3b06409-f6fd-494b-a233-fe01d0b4fb95'),
