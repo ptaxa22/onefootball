@@ -3,7 +3,7 @@ sleep = 1
 num_wallets = 5
 sleep_wallets = 200
 
-ref = 'meganfox'
+ref = ''
 
 max_concurrent_wallets = 1
 
